@@ -1,0 +1,35 @@
+.text-colors {
+    font-size: 20px ;
+    color:black;
+
+
+}
+.reg-con {
+    background-color: aliceblue;
+    background-size: cover;
+    height: cover;
+    border-radius: 15px;
+
+
+
+}
+.header {
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+.img-s {
+   border-radius: 30px;
+
+}
+.label-head {
+    font-size: 14px;
+    font-weight: bold;
+    font-family:sans-serif;
+    padding-left: 10px;
+}
+
+.input-tag {
+    width: 25vw;
+    margin-left: 10px;
+}
