@@ -1,0 +1,50 @@
+1.   Write a Python program to get a string made of the first 2 and the last 2 chars from a given a string.
+
+2.   Write a Python program to get a single string from two given strings, separated by a space and swap the first two characters of each string.
+
+3.   Write a Python program to find the first appearance of the substring 'not' and 'poor' from a given string.
+
+4.   Write a Python program to count the occurrences of a word in a given sentence
+
+5.   Write a Python program that accepts a comma separated sequence of words as input and prints the unique words in sorted form (alphanumerically).
+
+6.   Write a Python program to insert a string in the middle of a string.
+
+7.   Write a Python program to convert the first letter of each word in given string to uppercase.
+
+8.   Write a Python program to check whether a string starts with specified characters
+
+9.   Write a Python program to remove duplicates from a list.
+
+10.  Write a Python program to check a list is empty or not.
+
+11.  Write a Python program to print a specified list after removing the 0th, 4th and 5th elements. Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow'] Expected Output : ['Green', 'White', 'Black']
+
+12.  Write a Python program to get the difference between the two lists.
+
+13.  Write a Python program to replace the last element in a list with another list.
+
+14.  Write a Python program to check if all items of a list is equal to a given string.
+
+15.  Write a Python program to concatenate elements of a list to a string.
+
+16.  Write a Python program to reverse a tuple.
+
+17.  Write a python program to check if a set a subset of another set.
+
+18.  Write a python program to check if a set is a superset of another set.
+
+19.  Write a python program to find the union and intersection of 2 sets.
+
+20.  Write a python program to find the elements in s1 that are not in s2.
+
+21.  Write a python program to check if 2 sets are disjoint.
+
+22.  Write a python program to add all elements from another set to an existing set.
+
+23.  Write a python program to remove an element from a set if it exists.
+
+24.  Write a python code to delete keys from the dictionary.
+
+25.  Write a python code to sort the based on keys in the dictionary.
+

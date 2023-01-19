@@ -1,0 +1,21 @@
+1. Explain the scope of the variable 's' in the following program.
+   def f():
+     print(s)
+   s = "I love Python training"
+   f()
+
+2. Write a program using Lambda in python.
+
+3. Write python program using positional parameters or required parameters.
+
+4. Write python program using positional only.
+
+5. Write python program using keyword Parameters and default parameters.
+
+6. Write python program using variable length positional parameter.
+
+7. Write python program using variable length keyword parameter.
+
+8. Write python program using keyword parameter.
+
+9. Write a program to receive argumens from command line (as system arguments).

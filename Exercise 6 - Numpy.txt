@@ -1,0 +1,47 @@
+1. Write a Python code to import NumPy.
+
+2. Write a Python program to create 3x3 matrix with values ranging from 5 to 13.
+
+3. Write a Python program to create a null vector of size 10 and update sixth value to 11.
+
+4. Write a Python program to create a array with values ranging from 12 to 38.
+
+6. Write a Python program to reverse an array so that first element becomes last.
+
+7. Write a Python program to an array converted to a float type.
+
+8. Write a Python program to create a 2d array with 1 on the border and 0 inside.
+
+9. Write a Python program to create a 8x8 matrix and fill it with a checkerboard pattern.
+
+10. Write a Python program to convert a list and tuple into arrays.
+
+11. Write a Python program to append values to the end of an array. 
+
+12. Write a Python program to create an empty and a full array. 
+
+13. Write a Python program to convert the values of Centigrade degrees into Fahrenheit degrees. Centigrade values are stored into a NumPy array.
+
+14. Write a Python program to find the real and imaginary parts of an array of complex numbers.
+
+15. Write a Python program to test whether each element of a 1-D array is also present in a second array.
+
+16. Write a Python program to find common values between two arrays.
+
+17. Write a Python program to get the unique elements of an array.
+
+18. Write a Python program to test if all elements in an array evaluate to True.
+
+19. Write a Python program to test whether any array element along a given axis evaluates to True.
+
+20. Write a Python program to repeat elements of an array.
+
+21. Write a Python program to find the indices of the maximum and minimum values along the given axis of an array.
+
+22. Write a Python program compare two arrays using numpy.
+
+23. Write a Python program to save a NumPy array to a text file.
+
+24. Write a Python program to create a contiguous flattened array.
+
+25. Write a program to perform addition,minimum and maximum values from a 3D array.

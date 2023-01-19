@@ -1,0 +1,11 @@
+1. Write the syntax for try-finally block.
+
+2. Write a python program for except clause with exception.
+
+3. Write a python program for except clause with multiple exception.
+
+4. Write a python program for raising an exception using raise clause.
+
+5. Write a python program for user defined exceptions.
+
+6. Write a python program for custom exception
